@@ -10,6 +10,33 @@ and this will be pushed into Moht123
 3.Adding sm changes to the DCM123 on 3/13/22 --> this line is repeated in Mohit234branch it came from master branch only
 
 
+5.Scenario in Mohit234 -> Modified this file locally and will be pushed to Mohit234 folder and later on the merge will be done from Mohit123 to Mohit234
+
+*********************************************IMP*************************
+Do not merge the commits to master create a pull request and do not merge the changes to master
+*************************************************************************
+============================================================
+
+
+=======
+====================================
+
+1.Scenario in Mohit123 -> Modified this file and will be pushed to Mohit123 folder
+
+================================
+
+=======================================
+
+////// Modifyinh Mohit123 file before this is being pulled by Mohit234////////
+
+
+=================================
+
+4:03 new changes sare made at local for Mohit 234
+
+==========================
+=======
+
 =======================================================
 
 
@@ -17,6 +44,9 @@ Content from here is deleted
 
 ========================================
 
+<<<<<<< HEAD
 Modifying the TestFile.txt on Mohit456 in local
 
 =============================================
+=======
+>>>>>>> 61be5c686cc768ce06941802af7d6c765e0e579b
