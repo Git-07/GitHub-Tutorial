@@ -1,4 +1,11 @@
 1.After Cloning from Repo 'https://github.com/Git-07/GitHub-Tutorial' i have updated this file
 2.Now this file is modified and code will be committed to MyLocalBranch
 
+
+3.Adding sm changes to the DCM123 on 3/13/22 after rework is completed
+and this will be pushed into Moht123
+
+4.Again iam changing smthing in feture branchMoht123 to test and do a push and see merge conflicts to beresolved 
+
 3.Adding sm changes to the DCM123 on 3/13/22
+
