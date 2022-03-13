@@ -1,10 +1,2 @@
 1.This file is added after cloning the code from Repo -> https://github.com/Git-07/GitHub-Tutorial
 2.Now this file has been changed and which will be committed to MyLocalBranch
-
-
-=====================================================
-
-//Modifying this file and this wil be pushed to Mohit345///
---->>> 3/13/2022
-
-=======================
