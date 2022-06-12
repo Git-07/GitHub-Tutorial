@@ -9,6 +9,16 @@ and this will be pushed into Moht123
 
 3.Adding sm changes to the DCM123 on 3/13/22 --> this line is repeated in Mohit234branch it came from master branch only
 
+
+5.Scenario in Mohit234 -> Modified this file locally and will be pushed to Mohit234 folder and later on the merge will be done from Mohit123 to Mohit234
+
+*********************************************IMP*************************
+Do not merge the commits to master create a pull request and do not merge the changes to master
+*************************************************************************
+============================================================
+
+
+=======
 ====================================
 
 1.Scenario in Mohit123 -> Modified this file and will be pushed to Mohit123 folder
@@ -22,6 +32,26 @@ and this will be pushed into Moht123
 
 =================================
 
+4:03 new changes sare made at local for Mohit 234
+
+==========================
+=======
+
+=======================================================
+
+
+Modifyinhg the file in Mohit345 before pulling anything from Mohit234
+---->>> 3/13/2022
+
+========================================
+
+Adding the below line of code on 6/12/2022. This should be present in Mohit234 Feeature branch after Pulling the code from Mohit123 feature Branch
+
+
+=================================================== =================
+
+=======
 On 27th May There are some changes done in Mohit 123 TestFile
 
 ===========================================================
+
